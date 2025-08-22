@@ -1,0 +1,14 @@
+node_modules/
+
+# Pastas de build
+dist/
+build/
+
+# Configurações locais
+.env
+
+# Logs
+*.log
+
+# Sistema
+
